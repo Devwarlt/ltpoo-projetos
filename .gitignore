@@ -1,3 +1,5 @@
+# VS Code
+
 .vscode/*
 !.vscode/settings.json
 !.vscode/tasks.json
@@ -7,3 +9,14 @@
 
 # Local History for Visual Studio Code
 .history/
+
+# Netbeans
+
+**/nbproject/private/
+**/nbproject/Makefile-*.mk
+**/nbproject/Package-*.bash
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
