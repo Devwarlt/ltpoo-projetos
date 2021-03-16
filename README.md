@@ -6,6 +6,7 @@ Projetos do curso de Linguagem Técnica de Programação Orientada a Objetos (LT
 
 ### Contribuidores
 - Nádio ~ [@Devwarlt](https://github.com/Devwarlt)
+- João ~ [@joaomlb14](https://github.com/joaomlb14)
 
 [java-language-badge]: https://img.shields.io/badge/Java-red?logo=java&style=plastic
 
