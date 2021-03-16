@@ -1,15 +1,28 @@
 package br.projecao.exercicio02;
 
+import java.util.Date;
+
 public class Dependente {
-    private string nome;
-    private date date;
-}
-public string GetNome(){
-return nome;
+    private String nome;
+    private Date date;
 
-}
+    public Dependente() {
+        super();
+    }
 
-public date getDate(){
-return date;
+    public String getNome() {
+        return nome;
+    }
 
+    public void setNome(String nome) {
+        this.nome = nome;
+    }
+
+    public Date getDate() {
+        return date;
+    }
+
+    public void setDate(Date date) {
+        this.date = date;
+    }
 }
